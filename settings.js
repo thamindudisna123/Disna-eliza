@@ -32,28 +32,46 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['94768084855'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['94768084855'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94768084855'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '✮  🎀  𝒯𝒽𝒶𝓂𝒾𝓃𝒹𝓊 𝒟𝒾𝓈𝓃𝒶  🎀  ✮' // Your name ඔබේ නම 
+global.botnma = '✮  🎀  𝒯𝒽𝒶𝓂𝒾𝓃𝒹𝓊 𝒟𝒾𝓈𝓃𝒶  🎀  ✮' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = '✮  🎀  𝒯𝒽𝒶𝓂𝒾𝓃𝒹𝓊 𝒟𝒾𝓈𝓃𝒶  🎀  ✮' //ownernama,ownername
+global.packname = ' 🍰  🎀  𝒢𝑒𝓃𝒶𝓇𝑒𝓉𝑒𝒹 𝒷𝓎-𝒯𝒽𝒶𝓂𝒾𝓃𝒹𝓊 𝒟𝒾𝓈𝓃𝒶  🎀  🍰' // Sticker package name 
+global.author = '✮  🎀  𝒯𝒽𝒶𝓂𝒾𝓃𝒹𝓊 𝒟𝒾𝓈𝓃𝒶  🎀  ✮' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
-global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
-global.alive =`Hello i am alive now
+global.alivelogo = `https://telegra.ph/file/5d2c7349c32159d609e4e.jpg`
+global.alive =`✮  🎀  𝒯𝒽𝒶𝓂𝒾𝓃𝒹𝓊 𝒟𝒾𝓈𝓃𝒶  🎀  ✮ ALIVE NOW
+
+ 🍰  🎀  𝒢𝑒𝓃𝒶𝓇𝑒𝓉𝑒𝒹 𝒷𝓎-𝒯𝒽𝒶𝓂𝒾𝓃𝒹𝓊 𝒟𝒾𝓈𝓃𝒶  🎀  🍰
+
+
+👉මේ whatsapp group එකට join වෙන්න
+https://chat.whatsapp.com/LcLK8NZgeJ9GJfGITIKCvG
+
+
+👉මේ youtube channel එක subscribe කරලා suport එකක් දෙන්න :-https://www.youtube.com/channel/UCV9YD7Jt3M-wak61MPqWogw
+
+
+
+👇👇👇👇👇👇👇👇👇👇
+කම්මැලි මිනිසුන් යම්දෙයක් 
+කිරීමට ඇති කෙටිම හා ලෙසිම 
+විදිය සොයාගනී
+☝☝☝☝☝☝☝☝☝☝☝
+
+❤🥰Good day to you🥰❤'
 
 Download song type .yt 
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
 global.welcome = `
-🌀 Thanks Fro using sl zim bot
-✾ Some bugs fixing
-😼♥️
+🌀 Thanks Fro using ✮  🎀  𝒯𝒽𝒶𝓂𝒾𝓃𝒹𝓊 𝒟𝒾𝓈𝓃𝒶  🎀  ✮ bot
+
 `
 // වෙල්කම් එක යවන්න ඔනි නම් add කියලා දාන්න 
 global.sendwelcome = `add`
@@ -62,14 +80,14 @@ global.sendgoodbye = `remove`
 // Caption 
 global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
 global.mess = {
-    success: '✅ Done!',
-    admin: 'you must be admin to use this cmd!',
+    success: '✅හරී!',
+    admin: 'ඕක admin විතරයි use කරන්න පුලුවන් වෙන්නෙ',
     botAdmin: 'Bot must be admin neh!',
-    owner: 'This cmd is for Elisa bot owner only',
-    group: 'oooh sorry this cmd is for groups only!',
+    owner: 'ඕක owner only',
+    group: 'ඕක group cmd එකක් මේකට add වෙන්න https://chat.whatsapp.com/LcLK8NZgeJ9GJfGITIKCvG',
     private: 'goossssh it can only used in dms!',
     bot: 'This cmd  its only for the bot host',
-    wait: 'Wait Elisa bot processing ',
+    wait: 'පොඩ්ඩක් ඉන්න ',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
 global.limitawal = {
