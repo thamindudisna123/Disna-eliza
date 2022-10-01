@@ -1,8 +1,8 @@
 {
-  "name": "💃 Queen-Elisa 💃",
-  "description": "whatsapp md bot build with nodejs",
+  "name": "✮  🎀  𝒯𝒽𝒶𝓂𝒾𝓃𝒹𝓊 𝒟𝒾𝓈𝓃𝒶  🎀  ✮",
+  "description": " 🍰  🎀  𝒢𝑒𝓃𝒶𝓇𝑒𝓉𝑒𝒹 𝒷𝓎-𝒯𝒽𝒶𝓂𝒾𝓃𝒹𝓊 𝒟𝒾𝓈𝓃𝒶  🎀  🍰",
   "repository": "https://github.com/DarkMakerofc/Queen-Elisa-MD",
-  "logo": "https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg",
+  "logo": "https://telegra.ph/file/5d2c7349c32159d609e4e.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
